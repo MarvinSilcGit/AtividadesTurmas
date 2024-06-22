@@ -5,7 +5,8 @@
     <a href ="#atividade18-06">Atividade Terça-feira dia 18/06/2024</a> <br>
 </nav>
 
-<h2 id ="atividade14-06">Atividade Sexta-feira dia 14/06/2024</h2>
+<details>
+	<summary><h2 id ="atividade14-06">Atividade Sexta-feira dia 14/06/2024</h2></summary>
 
 ### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/). e apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
 
@@ -59,11 +60,10 @@ Apague o código acima e adicione o seguinte código para exibir todas as coluna
 
 ### 8. Agora, adicione valores para o novo estudante: cpf, matrícula, data de nascimento e nome. Depois adicione o comando para exibir todas as colunas da tabela;
 
-<br>
+</details>
 
----
-
-<h2 id ="atividade18-06">Atividade Terça-feira dia 18/06/24</h2>
+<details>
+	<summary><h2 id ="atividade18-06">Atividade Terça-feira dia 18/06/2024</h2></summary>
 
 ### Utilize o pydroid3 ou acesse [www.online-python.com](https://www.online-python.com/)
 
@@ -171,6 +171,4 @@ Quanto tempo levaria para percorrer o trecho São Paulo Dubai? <br>
 A distância é de 7687 milhas e a velocidade média do avião é 1078 km/h <br>
 Não esqueça de converter milhas para quilômetros
 
-<br>
-
----
+</details>
