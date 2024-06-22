@@ -106,7 +106,7 @@ else
 
 ### 3. Sintaxe para utilização de marcadores e assim exibir automaticamente o conteúdo da variável:
 
-<img src ="images/printmarcadores.png" width ="300" height="168">
+<img src ="AtividadesTurmas/images/printmarcadores.png" width ="300" height="168">
 
 #### Escreva o programa abaixo em um editor Python e execute para ver o resultado:**
 ```python
