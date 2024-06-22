@@ -283,5 +283,7 @@ j. 25000:
 ### 6. Depois de criada a tabela, use o comando _INSERT INTO () VALUES();_ para inserir dados de uma pessoa. Não se esqueça da ordem e quantidade
 
 ### 7. Depois disso, apague o conteúdo dos parênteses para poder inserir os dados de uma segunda pessoa.
+
+### 8. Por fim, use o comando para exibir todas as colunas da tabela.
       
 </details>
