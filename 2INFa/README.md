@@ -3,6 +3,8 @@
 <nav>
     <a href ="#atividade17-06">Atividade Segunda-feira dia 17/06/2024</a> <br>
     <a href ="#atividade20-06">Atividade Quinta-feira dia 20/06/2024</a> <br>
+	<a href ="#atividade08-07">Atividade Segunda-feira dia 08/07/2024</a> <br>
+	<a href ="#atividade11-07">Atividade Quinta-feira dia 11/07/2024</a>
 </nav>
 
 <details>
@@ -174,7 +176,7 @@ Não esqueça de converter milhas para quilômetros
 </details>
 
 <details>
-	<summary><h2 id ="atividade13-07">Atividade Segunda-feira dia 09/07/2024</h2></summary>
+	<summary><h2 id ="atividade08-07">Atividade Segunda-feira dia 08/07/2024</h2></summary>
 	
 ### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/) apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
 
