@@ -172,3 +172,110 @@ A distância é de 7687 milhas e a velocidade média do avião é 1078 km/h <br>
 Não esqueça de converter milhas para quilômetros
 
 </details>
+
+<details>
+	<summary><h2 id ="atividade13-07">Atividade Segunda-feira dia 09/07/2024</h2></summary>
+	
+### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/) apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
+
+```sql
+CREATE TABLE estudante_cetep
+(
+    cpf TEXT,
+    matricula INTEGER,
+    data_nascimento TEXT,
+    nome TEXT,
+    email TEXT,
+    nte INTEGER,
+    municipio TEXT,
+    escola TEXT,
+    codigo_sec INTEGER,
+    oferta_ensino TEXT,
+    ano_serie INTEGER,
+    turma TEXT
+);
+```
+
+### 2. Depois de criar a tabela, use o comando SELECT * FROM estudante_cetep para exibir todas as conlunas da tabela;
+
+### 3. Apague o comando anterior e use o seguinte comando para adicionar valores dentro da tabela:
+
+```sql
+INSERT INTO estudante_cetep ()
+VALUES ();
+```
+
+_Dentro do primeiro parêntese adicione o nome das colunas separados por vírgula e na ordem criada_ <br>
+_Dentro do segundo parêntese adcione os valores das colunas separados por vírgula e na ordem criada. Se for texto, coloque aspas simples._
+
+### 4. Classifique abaixo como sendo um dado do tipo TEXT, REAL ou INTEGER:
+
+a. Nome:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+b. email:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+c. data_nascimento:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+d. salario:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+e. telefone:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+f. peso:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+      
+g. idade:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+h. 5.5:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+i. 'nome':
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+j. 25000:
+
+- [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
+
+### 5. Crie uma tabela pessoa que possua as seguintes características: nome, cpf, altura, idade, peso, data_nascimento.
+
+### 6. Depois de criada a tabela, use o comando _INSERT INTO () VALUES();_ para inserir dados de uma pessoa. Não se esqueça da ordem e da quantidade dos valores dentro dos parênteses.
+
+### 7. Depois disso, apague o conteúdo dos parênteses para poder inserir os dados de uma segunda pessoa.
+
+### 8. Por fim, use o comando para exibir todas as colunas da tabela.
+      
+</details>
