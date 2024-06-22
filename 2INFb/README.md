@@ -280,7 +280,7 @@ j. 25000:
 
 ### 5. Crie uma tabela pessoa que possua as seguintes características: nome, cpf, altura, idade, peso, data_nascimento.
 
-### 6. Depois de criada a tabela, use o comando _INSERT INTO () VALUES();_ para inserir dados de uma pessoa. Não se esqueça da ordem e quantidade
+### 6. Depois de criada a tabela, use o comando _INSERT INTO () VALUES();_ para inserir dados de uma pessoa. Não se esqueça da ordem e da quantidade dos valores dentro dos parênteses.
 
 ### 7. Depois disso, apague o conteúdo dos parênteses para poder inserir os dados de uma segunda pessoa.
 
