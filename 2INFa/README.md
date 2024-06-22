@@ -281,3 +281,7 @@ j. 25000:
 ### 8. Por fim, use o comando para exibir todas as colunas da tabela.
       
 </details>
+
+<details>
+	<summary><h2 id ="atividade11-07">Atividade Quinta-feira dia 11/07/2024</h2></summary>
+</details>
