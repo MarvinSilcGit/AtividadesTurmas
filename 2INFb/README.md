@@ -184,7 +184,7 @@ Não esqueça de converter milhas para quilômetros
 <details>
 	<summary><h2 id ="atividade13-07">Atividade Sexta-feira dia 13/07/2024</h2></summary>
 	
-### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/). e apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
+### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/) apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
 
 ```sql
 CREATE TABLE estudante_cetep
@@ -226,57 +226,57 @@ a. Nome:
 
 b. email:
 
-- [ ] INTEGER
-- [ ] REAL
 - [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
 
 c. data_nascimento:
 
-- [ ] REAL
 - [ ] TEXT
+- [ ] REAL
 - [ ] INTEGER
 
 d. salario:
 
-- [ ] Real
 - [ ] TEXT
+- [ ] REAL
 - [ ] INTEGER
 
 e. telefone:
 
-- [ ] INTEGER
-- [ ] REAL
 - [ ] TEXT
+- [ ] REAL
+- [ ] INTEGER
 
 f. peso:
 
+- [ ] TEXT
 - [ ] REAL
 - [ ] INTEGER
-- [ ] TEXT
-
+      
 g. idade:
 
 - [ ] TEXT
-- [ ] INTEGER
 - [ ] REAL
+- [ ] INTEGER
 
 h. 5.5:
 
 - [ ] TEXT
-- [ ] INTEGER
 - [ ] REAL
+- [ ] INTEGER
 
 i. 'nome':
 
 - [ ] TEXT
-- [ ] INTEGER
 - [ ] REAL
+- [ ] INTEGER
 
 j. 25000:
 
 - [ ] TEXT
-- [ ] INTEGER
 - [ ] REAL
+- [ ] INTEGER
 
 ### 5. Crie uma tabela pessoa que possua as seguintes características: nome, cpf, altura, idade, peso, data_nascimento.
 
