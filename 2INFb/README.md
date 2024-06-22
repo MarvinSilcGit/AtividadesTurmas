@@ -206,7 +206,7 @@ CREATE TABLE estudante_cetep
 
 ### 2. Depois de criar a tabela, use o comando SELECT * FROM estudante_cetep para exibir todas as conlunas da tabela;
 
-### 3. Use o seguinte comando para adicionar valores dentro da tabela:
+### 3. Apague o comando anterior e use o seguinte comando para adicionar valores dentro da tabela:
 
 ```sql
 INSERT INTO estudante_cetep ()
