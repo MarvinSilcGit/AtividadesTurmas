@@ -6,9 +6,7 @@
 
 ## Agenda Semanal
 
-Aulas:
-
-**Segunda:**
+### Segunda-feira
 
 7:00 »» BD (2° INFa)
 
@@ -20,7 +18,8 @@ Aulas:
 
 10:40 »» Sistemas Operacionais (1° INFb)
 
-**Terça:**
+
+### Terça-feira
 
 7:50 »» Linguagem de programação (2° INFb)
 
@@ -31,10 +30,9 @@ Aulas:
 10:40 »» Linguagem de programação (2° INFb)
 
 
-**Quinta:**
+### Quinta-feira
  
 7:00 »» Análise e Projetos de SI: (3° INF)
-
 
 7:50 »» Análise e Projetos de SI: (3° INF)
 
@@ -45,7 +43,7 @@ Aulas:
 10:40 »» Linguagem de programação (2° INFa)
 
 
-**Sexta:**
+### Sexta-feira
 
 7:00 »» BD (2° INFb)
 
