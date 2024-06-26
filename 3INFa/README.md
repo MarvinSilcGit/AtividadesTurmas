@@ -10,6 +10,15 @@
     	<h5>
 			<a href ="#atividade20-06">Atividade Quinta-feira dia 20/06/2024</a>
 		</h5>
+		<h5>
+			<a href ="#atividade08-07">Atividade Segunda-feira dia 08/07/2024</a>
+		</h5>
+		<h5>
+			<a href ="#atividade09-07">Atividade Terça-feira dia 09/07/2024</a>
+		</h5>
+		<h5>
+			<a href ="#atividade11-07">Atividade Quinta-feira dia 11/07/2024</a>
+		</h5>
 	</nav>
 </details>
 
@@ -316,16 +325,16 @@ meses = dias / 28
 </details>
 
 <details>
-	<summary><h3>Atividade Segunda-feira dia 08/07/2024</h3></summary>
+	<summary><h3 id ="atividade08-07">Atividade Segunda-feira dia 08/07/2024</h3></summary>
  
 </details>
 
 <details>
-	<summary><h3>Atividade Terça-feira dia 09/07/2024</h3></summary>
+	<summary><h3 id ="atividade09-07">Atividade Terça-feira dia 09/07/2024</h3></summary>
  
 </details>
 
 <details>
-	<summary><h3>Atividade Quinta-feira dia 11/07/2024</h3></summary>
+	<summary><h3 id ="atividade11-07">Atividade Quinta-feira dia 11/07/2024</h3></summary>
  
 </details>
