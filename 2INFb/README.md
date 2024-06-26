@@ -1,10 +1,18 @@
 <details open>
 	<summary><h2>Sumário</h2></summary>
 	<nav>
-    	<a href ="#atividade14-06">Atividade Sexta-feira dia 14/06/2024</a> <br>
-    	<a href ="#atividade18-06">Atividade Terça-feira dia 18/06/2024</a> <br>
-		<a href ="#atividade09-07">Atividade Terça-Feira dia 09/07/2024</a> <br>
-		<a href ="#atividade12-07">Atividade Sexta-Feira dia 12/07/2024</a> <br>
+    	<h5>
+			<a href ="#atividade14-06">Atividade Sexta-feira dia 14/06/2024</a>
+		</h5>
+    	<h5>
+			<a href ="#atividade18-06">Atividade Terça-feira dia 18/06/2024</a>
+		</h5>
+		<h5>
+			<a href ="#atividade09-07">Atividade Terça-Feira dia 09/07/2024</a>
+		</h5>
+		<h5>
+			<a href ="#atividade12-07">Atividade Sexta-Feira dia 12/07/2024</a>
+		</h5>
 	</nav>
 </details>
 
