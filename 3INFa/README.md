@@ -310,6 +310,16 @@ meses = dias / 28
 </details>
 
 <details>
-	<summary><h3>Atividade Segunda-feira dia 08/09/2024</h3></summary>
+	<summary><h3>Atividade Segunda-feira dia 08/07/2024</h3></summary>
+ 
+</details>
+
+<details>
+	<summary><h3>Atividade Terça-feira dia 09/07/2024</h3></summary>
+ 
+</details>
+
+<details>
+	<summary><h3>Atividade Quinta-feira dia 11/07/2024</h3></summary>
  
 </details>
