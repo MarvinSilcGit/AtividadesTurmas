@@ -9,7 +9,7 @@
 </details>
 
 <details>
-	<summary><h2 id ="atividade14-06">Atividade Sexta-feira dia 14/06/2024</h2></summary>
+	<summary><h3 id ="atividade14-06">Atividade Sexta-feira dia 14/06/2024</h3></summary>
 
 ### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/). e apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
 
@@ -66,7 +66,7 @@ Apague o código acima e adicione o seguinte código para exibir todas as coluna
 </details>
 
 <details>
-	<summary><h2 id ="atividade18-06">Atividade Terça-feira dia 18/06/2024</h2></summary>
+	<summary><h3 id ="atividade18-06">Atividade Terça-feira dia 18/06/2024</h3></summary>
 
 ### Utilize o pydroid3 ou acesse [www.online-python.com](https://www.online-python.com/)
 
@@ -178,12 +178,12 @@ Não esqueça de converter milhas para quilômetros
 
 
 <details>
-	<summary><h2 id ="atividade09-07">Atividade Terça-feira dia 09/07/2024</h2></summary>
+	<summary><h3 id ="atividade09-07">Atividade Terça-feira dia 09/07/2024</h3></summary>
  
 </details>
 
 <details>
-	<summary><h2 id ="atividade12-07">Atividade Sexta-feira dia 12/07/2024</h2></summary>
+	<summary><h3 id ="atividade12-07">Atividade Sexta-feira dia 12/07/2024</h3></summary>
 	
 ### 1. Acesse o site [www.sqliteonline.com](https://sqliteonline.com/) apague o código *SELECT * FROM demo*; e adicione o seguinte código para criar uma tabela:
 
