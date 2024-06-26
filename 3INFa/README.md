@@ -326,6 +326,33 @@ meses = dias / 28
 
 <details>
 	<summary><h3 id ="atividade08-07">Atividade Segunda-feira dia 08/07/2024</h3></summary>
+
+ ### Criação e edição de listas:
+
+ #### Listas não ordenadas <code>ul</code>
+
+**Função e Dica:** criar listas não ordenadas, ou bullet points e use somente dentro da tag *body*.
+
+```html
+<ul>
+	<li>Primeiro tópico da lista não ordenada</li>
+	<li>Segundo tópico da lista não ordenada</li>
+</ul>
+```
+
+### 1. Utilize a tag <code>ul</code> e <code>tag</code> para criar uma lista não ordenada com os seguintes items:
+
+#### Listas ordenadas
+
+**Função e Dica:** Criar listas ordenadas, seja em ordem alfabética, numérica, ou algarismos romanos e use sempre dentro da tag *body*.
+
+```html
+<ol>
+	<li>Primeiro tópico da lista ordenada</li>
+</ol>
+```
+
+#### Modificando listas ordenadas.
  
 </details>
 
