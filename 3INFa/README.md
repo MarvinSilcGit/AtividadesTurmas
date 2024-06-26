@@ -1,5 +1,5 @@
 <details open>
-	<summary><h3>Sumário das Atividades</h3></summary>
+	<summary><h2>Sumário das Atividades</h2></summary>
 	<nav>
     	<a href ="#atividade17-06">Atividade Segunda-feira dia 17/06/2024</a> <br>
     	<a href ="#atividade18-06">Atividade Terça-feira dia 18/06/2024</a> <br>
@@ -8,7 +8,7 @@
 </details>
 
 <details>
-	<summary><h2 id ="atividade17-06">Atividade Segunda-feira dia 17/06/2024</h2></summary>
+	<summary><h3 id ="atividade17-06">Atividade Segunda-feira dia 17/06/2024</h3></summary>
 
 ### 1. Relacionar tags com afirmação:
 
@@ -87,7 +87,7 @@ a:active
 </details>
 
 <details>
-	<summary><h2 id ="atividade18-06">Atividade Terça-feira dia 18/06/2024</h2></summary>
+	<summary><h3 id ="atividade18-06">Atividade Terça-feira dia 18/06/2024</h3></summary>
 	
 ### Parte 1
 
@@ -196,7 +196,7 @@ Não esqueça de converter milhas para quilômetros
 </details>
 
 <details>
-	<summary><h2 id ="atividade20-06">Atividade Quinta-feira dia 20/06/2024</h2></summary>
+	<summary><h3 id ="atividade20-06">Atividade Quinta-feira dia 20/06/2024</h3></summary>
 
 ### Sistema LN (Linguagem Natural): Conversão de texto em código e vice-versa
 
@@ -307,4 +307,9 @@ dias = 365
 meses = dias / 28
 ```
 
+</details>
+
+<details>
+	<summary><h3></h3></summary>
+ 
 </details>
