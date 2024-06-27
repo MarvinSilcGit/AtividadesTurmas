@@ -327,11 +327,7 @@ meses = dias / 28
 <details>
 	<summary><h3 id ="atividade08-07">Atividade Segunda-feira dia 08/07/2024</h3></summary>
 
- ### Criação e edição de listas:
-
- #### Listas não ordenadas <code>ul</code>
-
-**Função e Dica:** criar listas não ordenadas, ou bullet points e use somente dentro da tag *body*.
+ ### 1. Tag ul e tag li para criação de lista não ordenada:
 
 ```html
 <ul>
@@ -340,20 +336,210 @@ meses = dias / 28
 </ul>
 ```
 
-### 1. Utilize a tag <code>ul</code> e <code>tag</code> para criar uma lista não ordenada com os seguintes items:
+Criar uma lista não ordenada como os seguintes tópicos:
 
-#### Listas ordenadas
+HTML, CSS, JavaScript, Web design, UI, UX, WWW, desenvolvimento.
 
-**Função e Dica:** Criar listas ordenadas, seja em ordem alfabética, numérica, ou algarismos romanos e use sempre dentro da tag *body*.
+<br>
+
+### 2. Aninhar tags dentro da outra para criar listas dentro de listas:
+
+```html
+<ul>
+
+    <li>Primeiro tópico da lista não ordenada</li>
+    <li>Segundo tópico da lista não ordenada</li>
+
+    <ul>
+        <li>Primeiro subtópico</li>
+        <li>Segundo subtópico</li>
+    </ul>
+
+    <li>Terceiro tópico da lista não ordenada</li>
+
+</ul>
+```
+
+### Criar uma lista não ordenada com a seguinte estrutura e conteúdo:
+
+- Tags de formatação
+    -    b
+    -    p
+    -    em
+    -    i
+    -    strong
+    -    br
+    -    h1 até h6
+    -    mark
+    -    small
+    -    sub
+    -    sup
+- Tags de multimídia
+    - figure
+    - img
+    - figcaption
+    - video
+    - iframe
+    - audio
+- Tag de navegação
+    - nav
+    - a
+
+### Quais tags são usadas em conjunto para criar uma lista não ordenada?
+
+- [ ] lu, il
+- [ ] ul, li
+- [ ] li, lu
+- [ ] il, ul
+
+<br>
+
+### 3. Tag ol e tag li para criação de lista ordenada:
 
 ```html
 <ol>
-	<li>Primeiro tópico da lista ordenada</li>
+    <li>Primeiro tópico da lista ordenada</li>
+    <li>Segundo tópico da lista ordenada</li>
 </ol>
 ```
 
-#### Modificando listas ordenadas.
+### Criar uma lista ordenada contendo as versões para usuário do Windows, começando do XP em diante até o Windows 11
+
+<br>
+
+### 4. Assim como na lista não ordenada, também é possível aninhas listas ordenadas.
+
+```html
+<ol>
+    <li>Primeiro tópico</li>
+    <li>Segundo tópico</li>
+   
+     <ol>
+       
+        <li>Primeiro subtópico</li>
+        <li>Segundo subtópico</li>
+    </ol>
+
+    <li>Terceiro tópico</li>
+
+</ol>
+```
+
+### Criar uma lista ordenada com a seguinte estrutura e conteúdo:
+
+1. Windows XP
+2. Windows Vista
+3. Windows 7
+4. Windows 8
+5. Windows 8.1
+6. Windows 10
+    1. 1507
+    2. 1511
+    3. 1607
+    4. 1703
+    5. 1709
+    6. 1803
+    7. 1903
+    8. 1909
+    9. 2004
+    10. 20H2
+    11. 21H1
+    12. 21H2
+    13. 22H2
+7. Windows 11
+    1. 21H2
+    2. 22H2
+    3. 23H2
+  
+### Quais tags são usadas em conjunto para criar uma lista ordenada?
+
+- [ ] lu, li
+- [ ] ul, li
+- [ ] ol, li
+- [ ] ol, il
+
+<br>
+
+Adicione o seguinte código ao arquivo html:
+
+```html
+<!DOCTYPE html>
+
+<html lang ="pt-br">
+   
+<head>
+   
+    <meta charset = "utf-8">
+
+    <meta name ="viewport" content ="width=device-width,initial-scale=1"/>
+       
+    <title></title>
+
+    <link rel ="stylesheet" type ="text/css" href ="style.css">
+   
+</head>
+
+<body>
+
+    <h1>Um resumo de alguns elementos</h1>
+
+    <p>Um elemento parágrafo irá conter majoritariamente texto. Por agora, é importante saber que você não pode aninhar um parágrafo dentro do outro.</p>
+
+    <p>O elemento <code>ol</code> (<i>ordered list</i>) representa uma lista de items onde os items foram intencionalmente ordenados. O elemento <code>li</code> representa um item dessa lista.</p>
+
+    <p>O elemento <code>ol</code> (<i>ordered list</i>) representa uma lista de items onde os items foram intencionalmente ordenados. O elemento <code>li</code> representa um item da lista.</p>
+
+    <figure>
+                   
+         <img src ="https://i.pinimg.com/736x/05/54/6b/05546b7a15d44d2985631d7e1f0aa7f5.jpg" alt ="Tirinha dos números primos" width ="300" height ="300"><br>
+                   
+         <figcaption>Tirinha dos números primos</figcaption>
+                    
+    </figure>
+     
+</body>
  
+</html>
+```
+
+Ao arquivo css, adicione os seguintes seletores simples:
+
+```css
+h1{
+    font-family: Garamond;
+    font-size: 5vw;
+}
+
+i{
+    font-family: Helvetica;
+}
+
+code{
+    color: cyan;
+}
+
+p{
+    font-size: 3vw;
+}
+
+img{
+    filter: grayscale(100%);
+}
+```
+Observe que cada seletor representa uma tag
+
+### Opcionais: ddicione as seguintes propriedades em cada uma das tags você possua em sua página:**
+
+font-size: 2vw;  // Tamanho da fonte conforme largura da página. Nesse caso, 2vw é 2% da largura
+
+color: khaki;    // Cor
+
+font-family: Verdana;   // Altera a fonte. Teste também com Courier New, Garamond, Arial eMonaco
+
+font-variant-caps: petite-caps;   // Fonte em caxa-alta
+
+text-align: justify   // teste também com as opções center, left e right no lugar de justify
+
 </details>
 
 <details>
