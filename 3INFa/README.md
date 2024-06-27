@@ -528,7 +528,7 @@ img{
 ```
 Observe que cada seletor representa uma tag
 
-### Opcionais: ddicione as seguintes propriedades em cada uma das tags você possua em sua página:**
+### Opcionais: adicione as seguintes propriedades em cada uma das tags você possua em sua página:
 
 font-size: 2vw;  // Tamanho da fonte conforme largura da página. Nesse caso, 2vw é 2% da largura
 
