@@ -788,7 +788,41 @@ else:
 
 **Representação visual do código:**
 
-<img src = "images/uml1.png" width ="" height ="">
+<img src = "images/uml1.png" width ="451" height ="553">
+
+**Observando o diagrama, qual o valor da vaŕiavel aumento ao fim do programa?**
+
+- [ ] 500
+- [ ] 375
+- [ ] 450
+- [ ] 250
+
+**Observando o diagrama, qual o valor da vaŕiavel salário ao fim do programa?**
+
+- [ ] 2800
+- [ ] 3000
+- [ ] 3250
+- [ ] 2750
+
+**Observando o diagrama, qual o valor da vaŕiavel porcentagemAumento ao fim do programa?**
+
+- [ ] 15
+- [ ] 20
+- [ ] 25
+- [ ] 10
+
+**Se lá no começo do diagrama, o valor de salário fosse 2000, o que aconteceria?**
+
+- [ ] print("Erro fatal!")
+- [ ] aumento seria igual a 400
+- [ ] salário seria no final 2400
+- [ ] salário seria no final 2500
+
+### 7. Diagramas
+
+**Converter esse diagrama em código Python**
+
+<img src ="images/uml2.png" width ="451" height ="553">
 
 </details>
 
