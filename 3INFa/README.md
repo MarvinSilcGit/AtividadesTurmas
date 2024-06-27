@@ -762,6 +762,33 @@ IndentationError: expected an indented block
 
 ```
 
+<br>
+
+### 6. Diagramas
+
+**Código em Python**
+
+```python
+salário = 2500
+porcentagemAumento = 20
+aumento = salário / 100 * porcentagemAumento
+
+if salário == 2500:
+   
+    salário += aumento
+   
+    print(aumento)
+   
+    print(salário)
+   
+else:
+   
+    print("Erro fatal!")
+```
+
+**Representação visual do código:**
+
+<img src = "images/uml1.png" width ="" height ="">
 
 </details>
 
