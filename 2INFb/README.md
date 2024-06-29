@@ -187,6 +187,285 @@ Não esqueça de converter milhas para quilômetros
 
 <details>
 	<summary><h3 id ="atividade09-07">Atividade Terça-feira dia 09/07/2024</h3></summary>
+
+ ### 1. 1. Marque a alternativa correta:
+
+**a**
+```python
+a = 1;
+b = 0
+
+if a > b:
+    print("%d maior que %d" %(a, b))
+
+else:
+    
+    print("%d menor que %d" %(a, b))
+```
+
+**b**
+
+```python
+a, b = 1, 0
+
+if a >> b:
+    print("%d maior que %d" %(a, b))
+
+else:
+    
+    print("%d menor que %d" %(a, b))
+```
+
+**c**
+
+```python
+a, b = 1, 0
+
+if a > b:
+    print("%d maior que %d" %(a, b))
+
+else:
+    
+    print"%d menor que %d" %(a, b))
+```
+
+**d**
+
+```
+a, b = 1, 0
+
+if a > b:
+    print("%d maior que %d" %(a, b))
+
+else:
+    
+    print("%d menor que %d" %(a, b))
+```
+
+- [ ] a
+- [ ] b
+- [ ] c
+- [ ] d
+
+<br>
+
+### 2. Identificação de erro
+
+**O seguinte programa:**
+
+```python
+a, b = 1, 0
+
+if a > b:
+    print("%d maior que %d" % (a, b))
+
+else:
+   
+    print"%d menor que %d" % (a, b))
+```
+
+**Apresentou esse erro:**
+
+  File "main.py", line 8
+    print"%d menor que %d" %(a, b))
+         ^
+SyntaxError: invalid syntax
+
+**Em que linha se encontra o erro?**
+
+- [ ] line 7
+- [ ] line 8
+- [ ] line 9
+- [ ] line 10
+
+**Qual o erro?**
+
+- [ ] falta aspas
+- [ ] falta pontuação
+- [ ] falta parêntese
+- [ ] falta variáveis
+
+<br>
+
+### 3. Identificação de erro
+
+**O seguinte programa**
+
+```python
+a, b = 1, 0
+
+if a > b
+    print("%d maior que %d" %(a, b))
+
+else:
+   
+    print("%d menor que %d" %(a, b))
+```
+
+**Apresentou esse erro:**
+
+  File "main.py", line 3
+    if a > b
+           ^
+SyntaxError: invalid syntax
+
+**Em que linha se encontra o erro?**
+
+- [ ] line 2
+- [ ] line 8
+- [ ] line 5
+- [ ] line 3
+
+**Qual erro?**
+
+- [ ] espaço entre as linhas
+- [ ] o operador relacional está incorreto
+- [ ] variável a ser maior que variável b
+- [ ] dois pontos no final da linha do if
+
+<br>
+
+### 4. Identificação de erro
+
+**O seguinte programa**
+
+```python
+a, b = 1, 0
+
+if a > b:
+    print("%d maior que %d" %(a, b))
+
+else
+   
+    print("%d menor que %d" %(a, b))
+```
+
+**Apresentou esse erro:**
+
+  File "main.py", line 6
+    else
+       ^
+SyntaxError: invalid syntax
+
+**Em que linha se encontra o erro?**
+
+- [ ] line 2
+- [ ] line 7
+- [ ] line 6
+- [ ] line 3
+
+**Qual o erro?**
+
+- [ ] espaço entre as linhas
+- [ ] o operador relacional está incorreto
+- [ ] variável a se maior que variável b
+- [ ] Dois pontos no final da linha do else
+
+<br>
+
+### 5. Identificação de múltiplos erros
+
+**O seguinte programa**
+
+```python
+a, b = 1, 0
+
+if a > b:
+print("%d maior que %d" %(a, b))
+
+else:
+   
+print("%d menor que %d" %(a, b))
+```
+
+**Apresentou esse erro primeiro erro:**
+
+  File "main.py", line 4
+    print("%d maior que %d" %(a, b))
+    ^
+IndentationError: expected an indented block
+
+**Depois, esse segundo erro:**
+
+    File "main.py", line 8
+    print("%d menor que %d" %(a, b))
+    ^
+IndentationError: expected an indented block
+
+**O primeiro e segundo erros estão em quais linhas?**
+
+- [ ] line 3 e line 3
+- [ ] line 1 e line 4
+- [ ] line 4 e line 8
+- [ ] line 8 e line 2
+  
+**Reescreva aqui o programa da quinta questão de modo que funcione**
+
+```python
+
+```
+
+<br>
+
+### 6. Diagramas
+
+**Código em Python**
+
+```python
+salário = 2500
+porcentagemAumento = 20
+aumento = salário / 100 * porcentagemAumento
+
+if salário == 2500:
+   
+    salário += aumento
+   
+    print(aumento)
+   
+    print(salário)
+   
+else:
+   
+    print("Erro fatal!")
+```
+
+**Representação visual do código:**
+
+<img src = "images/uml1.png" width ="451" height ="553">
+
+**Observando o diagrama, qual o valor da vaŕiavel aumento ao fim do programa?**
+
+- [ ] 500
+- [ ] 375
+- [ ] 450
+- [ ] 250
+
+**Observando o diagrama, qual o valor da vaŕiavel salário ao fim do programa?**
+
+- [ ] 2800
+- [ ] 3000
+- [ ] 3250
+- [ ] 2750
+
+**Observando o diagrama, qual o valor da vaŕiavel porcentagemAumento ao fim do programa?**
+
+- [ ] 15
+- [ ] 20
+- [ ] 25
+- [ ] 10
+
+**Se lá no começo do diagrama, o valor de salário fosse 2000, o que aconteceria?**
+
+- [ ] print("Erro fatal!")
+- [ ] aumento seria igual a 400
+- [ ] salário seria no final 2400
+- [ ] salário seria no final 2500
+
+### 7. Diagramas
+
+**Converter esse diagrama em código Python**
+
+<img src ="images/uml2.png" width ="451" height ="553">
  
 </details>
 
